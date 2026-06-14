@@ -4,7 +4,9 @@ An interactive Power BI dashboard designed to analyze workforce demographics, ab
 ## 🖥️ Live Preview & UI/UX Design
 > **Note:** The layout features a customized minimalist top navigation bar to mimic a modern web-application style, maximizing screen space and user experience.
 
-![Dashboard Preview](Screenshots/your_main_image.png)
+[Dashboard Preview]<img width="8000" height="4564" alt="Effectif   Démographie" src="https://github.com/user-attachments/assets/61907218-4ae6-4cf4-bd0a-61c1112d7037" />
+
+
 
 ## 🎯 Key Features & Insights
 * **Effectif & Démographie:** Comprehensive overview of total workforce (1K), average seniority (4 years), and contract distribution (CDI, CDD, ANAPEC).
